@@ -1,24 +1,13 @@
-# vue-tut
+# NPM package POC (Prove Of Concept)
 
-## Project setup
-```
-npm install
-```
+## Packages used
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. [acrynom]() package.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Linking our package to global NPM modules locally
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. simply adding the package to global NPM on local machine (for testing purpoes)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![add package to global NPM](./screenshots/npm-link-to-global-npm-modules-local.png)
+
+**Note: that the package is entirley seperate from our codebase, meaning that any change made on package within node_modules directory must be copied & pasted by hand.**
