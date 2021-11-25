@@ -1,17 +1,17 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img
+    alt="Vue logo"
+    src="./assets/logo.png"
+  >
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus sunt nobis, consequatur facilis iusto magni beatae maiores libero? Aliquam, fugit. Veniam asperiores explicabo possimus hic aut maxime atque cumque blanditiis illo laboriosam?</p>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import acro from "acronym"
 
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+  name: "App",
+};
 </script>
 
 <style>

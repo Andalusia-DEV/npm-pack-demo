@@ -2,11 +2,11 @@
 
 ## Packages used
 
-1. [acrynom]() package.
+1. [short-it](https://github.com/safwat-fathi/short-it) package.
 
 ## Linking our package to global NPM modules locally
 
-1. simply adding the package to global NPM on local machine (for testing purpoes)
+1. simply adding the package to global NPM on local machine (for testing purposes)
 
 ![add package to global NPM](./screenshots/npm-link-to-global-npm-modules-local.png)
 
