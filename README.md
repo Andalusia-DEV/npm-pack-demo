@@ -1,6 +1,6 @@
 # NPM package POC (Prove Of Concept)
 
-## NPM [full official docs](https://docs.npmjs.com/packages-and-modules)
+NPM [full official docs](https://docs.npmjs.com/packages-and-modules)
 
 ---
 
