@@ -2,7 +2,7 @@
 
 ## Packages used
 
-1. [short-it](https://github.com/safwat-fathi/short-it) package.
+1. [short-itt](https://github.com/safwat-fathi/short-itt) package.
 
 ## Linking our package to global NPM modules locally
 
