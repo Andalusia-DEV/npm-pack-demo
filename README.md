@@ -26,13 +26,9 @@
 
 ![edit the package](./screenshots/update-the-pack-in-main-codebase.png)
 
-4. update package version.
+4. update package version & update package to latest version (from our team members).
 
 ![update package version](./screenshots/update-pack-version.png)
-
-![update pack to latest](./screenshots/update-pack-to-latest.png)
-
-5. update package to latest version (from our team members).
 
 ![update pack to latest](./screenshots/update-pack-to-latest.png)
 
