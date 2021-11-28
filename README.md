@@ -16,7 +16,7 @@
 
 2. update the package from **node_modules** within our project. Which will not make any diffrence in our package on NPM.
 
-**Note: if these changes applied the package codebase skip to step 4.**
+**Note: if these changes applied to the package codebase itself skip to step 4.**
 
 ![edit the package 1](./screenshots/edit-the-pack-1.png)
 
