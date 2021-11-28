@@ -32,6 +32,10 @@
 
 ![update pack to latest](./screenshots/update-pack-to-latest.png)
 
+5. update package to latest version (from our team members).
+
+![update pack to latest](./screenshots/update-pack-to-latest.png)
+
 ---
 
 **Note: that the package is entirley seperate from our codebase, meaning that any change made on package within node_modules directory must be copied & pasted by hand.**
