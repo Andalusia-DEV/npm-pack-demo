@@ -7,10 +7,19 @@
 </template>
 
 <script>
-// import acro from "acronym"
+import shortIt from "short-itt";
 
 export default {
   name: "App",
+  mounted() {
+    shortIt("for your information", (err, resp) => {
+      if (err) {
+        console.log(err);
+      }
+
+      console.log(resp);
+    });
+  },
 };
 </script>
 
