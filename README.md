@@ -30,8 +30,6 @@
 
 ![update package version](./screenshots/update-pack-version.png)
 
-5. update package to latest version (from our team members).
-
 ![update pack to latest](./screenshots/update-pack-to-latest.png)
 
 ---
